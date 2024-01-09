@@ -22,7 +22,7 @@ A visually appealing landing page that introduces users to the beauty and attrac
 
 Clone the repository:
 
-    git clone https://github.com/yourusername/tropic-landing-page.git
+    git clone https://github.com/yourusername/travelogram-landing-page.git
     
 Open travel.html in your preferred web browser.
 
