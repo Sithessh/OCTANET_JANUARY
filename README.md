@@ -13,7 +13,7 @@ A visually appealing landing page that introduces users to the beauty and attrac
 3. Detailed information about tourist spots.
 4. Responsive design for seamless viewing on various devices.
 
-# Tech Stach
+# Tech Stack
 
 1. **Languages:** HTML, CSS
 2. **Software:** Visual Studio Code
