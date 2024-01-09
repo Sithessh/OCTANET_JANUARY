@@ -29,6 +29,8 @@ Open travel.html in your preferred web browser.
 # Output Snapshots:
 
 ![image](https://github.com/Sithessh/OCTANET_JANUARY/assets/137713496/9e8638fe-d2bc-4d1b-a67e-00319a807f0c)
+![image](https://github.com/Sithessh/OCTANET_JANUARY/assets/137713496/133772ea-504d-473f-9d7f-a642aada241d)
+
 
 
 # Credits:
